@@ -37,3 +37,5 @@ For ideas that I have not broken out into a dedicated page yet.
 
     - Offer free + percentage, undercut as solo developer.
     - Distribution? I could just advertise better in some community.
+
+For more ideas see [varepsilon](https://twitter.com/var_epsilon)'s ideas: https://www.ishan.coffee/notes/Idea-List
